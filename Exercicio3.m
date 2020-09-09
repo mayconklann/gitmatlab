@@ -35,5 +35,3 @@ C = C_(1:2,:)/C_(3,1)
 
 D_ = K*[R3 -Pt; zeros(1,3) 1]*D;
 D = D_(1:2,:)/D_(3,1)
-
-% Comentario teste
